@@ -265,7 +265,7 @@
             this.bmButtonOk1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bmButtonOk1.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.bmButtonOk1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.bmButtonOk1.Location = new System.Drawing.Point(801, 101);
+            this.bmButtonOk1.Location = new System.Drawing.Point(785, 100);
             this.bmButtonOk1.Name = "bmButtonOk1";
             this.bmButtonOk1.Size = new System.Drawing.Size(82, 31);
             this.bmButtonOk1.TabIndex = 2;
@@ -289,7 +289,7 @@
             this.bmButtonCancel1.Text = "bmButtonCancel1";
             this.bmButtonCancel1.UseVisualStyleBackColor = false;
             // 
-            // MainBM
+            // MainBMbk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -306,7 +306,7 @@
             this.Controls.Add(this.bmLabel1);
             this.Controls.Add(this.bmButtonOk1);
             this.Controls.Add(this.bmButtonCancel1);
-            this.Name = "MainBM";
+            this.Name = "MainBMbk";
             this.Text = "MainBM";
             ((System.ComponentModel.ISupportInitialize)(this.bmDataGridView1)).EndInit();
             this.ResumeLayout(false);
